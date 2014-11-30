@@ -1,15 +1,3 @@
-/*
- * Graph.java (for SimGame)
- * Kevin Stratmeyer & Nicolas Hinderling
- * kevjs@bu.edu & nhinderl@bu.edu
- * 
- * Some code was taken from Wayne Snyder's Lecture 23
- * 
- * Date: 5/1/14
- * Class: CS 112
- */
-
-
 import java.util.*;
 
 public class Graph {

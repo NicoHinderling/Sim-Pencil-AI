@@ -1,14 +1,3 @@
-/*
- * Graph.java (for SimGame)
- * Kevin Stratmeyer & Nicolas Hinderling
- * kevjs@bu.edu & nhinderl@bu.edu
- * 
- * Some code was taken from Wayne Snyder's Lecture 23
- * 
- * Date: 5/1/14
- * Class: CS 112
- */
-
 public class Player{
   //D - This is our class variable to hold the depth that the method will search to
   private int D = 10;

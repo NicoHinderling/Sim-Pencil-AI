@@ -1,16 +1,3 @@
-/*
- * File: SimGame.java
- * Purpose: This is a version of the Sim Pencil Game (see Wiki for details);
- *     it draws the game on  an 800x800 window and allows the user to 
- * Date: 4/21/14
- * Class: CS 112
- *
- * Author: Wayne Snyder
- */
-
-
-
-
 import javax.swing.*; 
 import java.util.*;
 import java.awt.*;
