@@ -12,7 +12,7 @@ While there are five Java files in total, the inner workings of the AI are withi
 DEMO
 ----
 Note: My mouse wasn't recorded in the video, but I (human) choose the red lines
-[![ScreenShot](https://raw.githubusercontent.com/NicoHinderling/Sim-Pencil-AI/master/Sim%20Screenshot.png)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](https://raw.githubusercontent.com/NicoHinderling/Sim-Pencil-AI/master/Sim%20Screenshot.png)](https://www.youtube.com/watch?v=tT1r-gYFZh4)
 
 
 Feel free to download the code and try it yourself!
