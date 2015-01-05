@@ -12,6 +12,7 @@ While there are five Java files in total, the inner workings of the AI are withi
 DEMO
 ----
 Note: My mouse wasn't recorded in the video, but I (human) choose the red lines
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 
 Feel free to download the code and try it yourself!
